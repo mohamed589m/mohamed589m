@@ -29,9 +29,11 @@ I am  a  Fullstack developer.
 
 <p>&nbsp;</p>
 
+<div style="text-align: center; margin-bottom: 20px;">
 <h3>Top languages</h3>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed589m&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mohamed589m" /></p>
-
+  </div>
+  
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!-- Streak Stats -->
