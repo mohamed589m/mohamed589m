@@ -33,11 +33,10 @@ I am  a  Fullstack developer.
     <h3>Top Languages</h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed589m&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </div>
-  </div>
-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!-- Streak Stats -->
   <div style="text-align: center; margin-bottom: 20px;">
     <h3>Current Streak</h3>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-khaled0&" alt="Current Streak" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  </div>
   </div>
