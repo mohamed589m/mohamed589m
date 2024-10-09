@@ -27,13 +27,13 @@ I am  a  Fullstack developer.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p>&nbsp;</p>
-
-<div style="text-align: center; margin-bottom: 20px;">
-<h3>Top languages</h3>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed589m&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mohamed589m" /></p>
+<div style="display: flex; flex-direction: column; align-items: center;">
+ <!-- Languages Card -->
+  <div style="text-align: center; margin-bottom: 20px;">
+    <h3>Top Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed589m&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </div>
-  
+  </div>
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!-- Streak Stats -->
