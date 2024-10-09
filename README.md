@@ -29,8 +29,13 @@ I am  a  Fullstack developer.
 
 <p>&nbsp;</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed589m&show_icons=true&locale=en&theme=tokyonight" alt="mohamed589m" /></p>
-<!-- Profile Views Badge -->
-<a href="https://komarev.com/ghpvc/?username=mohamed589m&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mohamed589m&style=for-the-badge">
-</a>
+<h3>Top languages</h3>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed589m&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mohamed589m" /></p>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!-- Streak Stats -->
+  <div style="text-align: center; margin-bottom: 20px;">
+    <h3>Current Streak</h3>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-khaled0&" alt="Current Streak" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  </div>
