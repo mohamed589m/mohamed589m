@@ -29,8 +29,6 @@ I am  a  Fullstack developer.
 
 <p>&nbsp;</p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed589m&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mohamed589m" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed589m&show_icons=true&locale=en&theme=tokyonight" alt="mohamed589m" /></p>
 <!-- Profile Views Badge -->
 <a href="https://komarev.com/ghpvc/?username=mohamed589m&style=for-the-badge">
