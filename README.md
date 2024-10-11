@@ -4,7 +4,7 @@ Hi👋, My name is  Mohamed Tamer
 I am  a  Fullstack developer.
 --------------------------
 
-*   🌍 I'm From  Egypt 🇪🇬 
+*   🌍 I'm from  Egypt 🇪🇬 
 *   🧑‍🎓 I study computer science
 *   🌱 I competed in the Africa & Arab Collegiate Programming Championship `(ACPC)` 2021 & 2022.
 *   ⚡ I enjoy Problem Solving
