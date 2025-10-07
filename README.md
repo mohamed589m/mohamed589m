@@ -20,9 +20,7 @@ I am  a  Fullstack developer.
 
 ============================================================
 
-                        <div className="skill-box">
-                            <h2 className="section-title">Skills</h2>
-                            <p className="section-p">You Can See My Skills Here!</p>
+                       
                             <div>
                                 <p align="center">
                                     <div className="d-flex justify-content-around px-5 mb-5">
@@ -388,7 +386,7 @@ I am  a  Fullstack developer.
                                     </div>
                                 </p>
                             </div>
-                        </div>
+                      
                    
 ========================================================
 
