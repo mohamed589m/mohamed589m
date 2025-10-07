@@ -18,52 +18,40 @@ I am  a  Fullstack developer.
     <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="40"/></a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="50"/></a>
 
+	
 	===============================================================
-	# Skills
+	## Skills
 
-Here are some of the technologies and tools I am proficient in:
-
-## Frontend Development
-- [HTML5](https://www.w3.org/html/) ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-- [CSS3](https://www.w3schools.com/css/) ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-- [TypeScript](https://www.typescriptlang.org/) ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)
-- [React](https://reactjs.org/) ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-- [React Native](https://reactnative.dev/) ![React Native](https://reactnative.dev/img/header_logo.svg)
-- [Next.js](https://nextjs.org/) ![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg)
-- [Redux](https://redux.js.org/) ![Redux](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg)
-
-## Styling Frameworks
-- [Bootstrap](https://getbootstrap.com/) ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
-- [Tailwind CSS](https://tailwindcss.com/) ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
-- [Sass](https://sass-lang.com/) ![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)
-
-## Backend Development
-- [Node.js](https://nodejs.org/) ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
-- [Express](https://expressjs.com/) ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
-- [GraphQL](https://graphql.org/) ![GraphQL](https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg)
-- [NestJS](https://nestjs.com/) ![NestJS](https://nestjs.com/img/logo-small.svg)
-- [Socket.IO](https://socket.io/) ![Socket.IO](https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg)
-
-## Databases
-- [MongoDB](https://www.mongodb.com/) ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
-- [MySQL](https://www.mysql.com/) ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-- [Sequelize](https://sequelize.org/) ![Sequelize](https://sequelize.org/assets/images/sequelize-logo.svg)
-- [Redis](https://redis.io/) ![Redis](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg)
-- [Supabase](https://supabase.com/) ![Supabase](https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg)
-- [Oracle](https://www.oracle.com/) ![Oracle](https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg)
-
-## Other Tools & Technologies
-- [Git](https://git-scm.com/) ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-- [Postman](https://postman.com/) ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
-- [Figma](https://www.figma.com/) ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
-- [Ionic](https://ionicframework.com/) ![Ionic](https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg)
-- [React Query](https://tanstack.com/query/latest) ![React Query](https://tanstack.com/query/latest/docs/img/logo.svg)
-- [Unity](https://unity.com/) ![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg)
-
-## Programming Languages
-- [C++](https://www.w3schools.com/cpp/) ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
-- [Java](https://www.java.com/) ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30">](https://www.w3.org/html/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30">](https://www.w3schools.com/css/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30">](https://reactjs.org/)
+[<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="30" height="30">](https://nextjs.org/)
+[<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30">](https://reactnative.dev/)
+[<img src="https://tanstack.com/query/latest/docs/img/logo.svg" alt="reactquery" width="30" height="30">](https://tanstack.com/query/latest)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30">](https://getbootstrap.com)
+[<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30">](https://tailwindcss.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30">](https://sass-lang.com)
+[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30">](https://www.figma.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="30" height="30">](https://ionicframework.com)
+[<img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="30" height="30">](https://nestjs.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30">](https://nodejs.org)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30">](https://expressjs.com)
+[<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="30" height="30">](https://graphql.org)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30">](https://www.mongodb.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30">](https://www.mysql.com/)
+[<img src="https://sequelize.org/assets/images/sequelize-logo.svg" alt="sequelize" width="30" height="30">](https://sequelize.org/)
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30">](https://git-scm.com/)
+[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30">](https://postman.com)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30">](https://redis.io)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30">](https://redux.js.org)
+[<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30">](https://unity.com/)
+[<img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="30" height="30">](https://supabase.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30">](https://www.w3schools.com/cpp/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30">](https://www.java.com)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30">](https://www.typescriptlang.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30">](https://www.oracle.com/)
+[<img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socketio" width="30" height="30">](https://socket.io/)
 	===============================================================
 
 ## You can reach me 
