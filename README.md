@@ -1,14 +1,29 @@
-Hi👋, My name is  Mohamed Tamer
-========================================================================================================================================
+## Hey there 👋, I'm [Mohamed Tamer](https://github.com/mohamed589m)
 
-I am  a  Fullstack developer.
---------------------------
+### Glad to see you here!
 
-*   🌍 I'm from  Egypt 🇪🇬 
-*   🧑‍🎓 I study computer science
-*   🌱 I competed in the Africa & Arab Collegiate Programming Championship `(ACPC)` 2021 & 2022.
-*   ⚡ I enjoy Problem Solving
-*   🤝  I'm open to collaborating on interesting projects as a developer
+I am a Full Stack Developer with a mission to revolutionize how the world hires with AI. 🚀
+
+I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Typescript, NodeJS, MongoDB, React, NextJS, React native, etc. I've led diverse tech teams covering Frontend and Backend and building scalable products from scratch with the commitment to making a positive impact through technology.
+
+I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+
+Feel free to connect with me @mohamed589m for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+
+Like My Work?
+
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; I’m currently working with HTML, CSS, TailwindCSS, Bootstrap, JS, TS, React, Redux, NextJS, NodeJS, Express, GraphQL, React native, Expo, Socket.io, etc.
+- 🚀 &nbsp; I’m currently exploring ML, Gen AI, etc.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
+- 📫 &nbsp; Reach me out: mohamed53634372@gmail.com
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
+- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
 ### 	Tech Stack 🚀
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="36" height="36">](https://www.w3.org/html/)
