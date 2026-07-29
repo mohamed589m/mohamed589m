@@ -63,13 +63,4 @@ Like My Work?
 	<a href="https://wa.me/01146463158"><img src="https://github.com/Ahmed-Elmoslmany/Ahmed-Elmoslmany/raw/main/icons/whatsapp.svg" alt="Whatsapp" title="whatsapp" width="50px"/></a>
 </p>
 
-----------------------------------------------------------------------------------------------------------------------------------------------------
 
-<div style="display: flex; flex-direction: column; align-items: center;">
- <!-- Languages Card -->
-  <div style="text-align: center; margin-bottom: 20px;">
-    <h3>Top Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed589m&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  </div>
-
-  </div>
