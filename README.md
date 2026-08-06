@@ -1,4 +1,4 @@
-## Hey there 👋, I'm [Mohamed Tamer]([https://github.com/mohamed589m](https://personal-portfolio-responsive.vercel.app/))
+## Hey there 👋, I'm [Mohamed Tamer](https://personal-portfolio-responsive.vercel.app/)
 
 ### Glad to see you here!
 
